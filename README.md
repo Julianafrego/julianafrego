@@ -1,5 +1,5 @@
 
-# 🎮 Olá, eu sou a Júlia! Bem-vinda ao meu mundo de código! 🌸👾
+# 🎮 Olá, eu sou a Ju! Bem-vinda ao meu mundo de código! 🌸👾
 
 > 🏆 "Missão: Aprender e Compartilhar Conhecimento sobre Programação" 🏆
 
