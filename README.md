@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Julianafrego/julianafrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎮 Olá, eu sou a Júlia! Bem-vinda ao meu mundo de código! 🌸👾
 
-Here are some ideas to get you started:
+> 🏆 "Missão: Aprender e Compartilhar Conhecimento sobre Programação" 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nível Atual: Desenvolvedora, Criadora e Estudante de Ciência da Computação 👩‍💻
+
+### 🎀 Sobre Mim
+🌟 Estudante apaixonada por tecnologia e design \
+🌟 Aprendiz em desenvolvimento web e mobile \
+🌟 Amante de temas retrô e games 💖
+
+---
+
+### ⚔️ Minhas Habilidades
+
+| Ferramenta      | Nível                           |
+|-----------------|---------------------------------|
+| **HTML/CSS**    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜       |
+| **JavaScript**  | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜       |
+| **Python**      | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜       |
+| **Dart**        | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜       |
+| **Flutter**     | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜       |
+| **React**       | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜       |
+| **FastAPI**     | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜       |
+| **Figma**       | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜       |
+
+---
