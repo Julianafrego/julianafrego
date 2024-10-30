@@ -1,4 +1,4 @@
-🌸 Olá, eu sou a Juliana 
+<h1 align="center" style="color:#FF69B4; font-size: 3em;">🌸 Olá, eu sou a Juliana 🌸</h1>
 <div>
   <a href="https://github.com/julianafrego">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianafrego&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
@@ -6,7 +6,7 @@
   </a>
 </div>
 
-🌸 Vamos nos conectar?
+## 🌸 Vamos nos conectar?
 
 <div> 
   <a href="https://instagram.com/julianafrego" target="_blank"> 
