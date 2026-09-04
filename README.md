@@ -6,7 +6,7 @@
 
 ## 🌸 Olá, eu sou Juliana 🌸
 Sou bacharel em Ciência da Computação e Desenvolvedora Full Stack.
-Tenho experiência no desenvolvimento de aplicações web e mobile, com foco principalmente em React, TypeScript, Python, FastAPI, PostgreSQL e Flutter.
+Tenho experiência no desenvolvimento de aplicações web e mobile, com foco principalmente em React, TypeScript, Python e Flutter.
 Atualmente, estou ampliando meus conhecimentos em Angular e aprofundando minhas habilidades no desenvolvimento de aplicações modernas e escaláveis.
 
 ## 🌸 Minhas Skills 🌸
